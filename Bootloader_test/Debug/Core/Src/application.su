@@ -1,0 +1,2 @@
+../Core/Src/application.c:6:5:app_is_valid	16	static
+../Core/Src/application.c:15:6:jump_to_app	24	static,ignoring_inline_asm

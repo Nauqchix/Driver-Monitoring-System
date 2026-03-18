@@ -1,0 +1,2 @@
+../Core/Src/application.c:6:5:app_is_valid	3
+../Core/Src/application.c:15:6:jump_to_app	1

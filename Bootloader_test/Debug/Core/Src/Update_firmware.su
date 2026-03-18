@@ -1,0 +1,11 @@
+../Core/Src/Update_firmware.c:33:26:uart_read_exact	24	static
+../Core/Src/Update_firmware.c:38:13:uart_send_byte	16	static
+../Core/Src/Update_firmware.c:72:17:crc32_mpeg2	32	static
+../Core/Src/Update_firmware.c:85:17:flash_end_addr	16	static
+../Core/Src/Update_firmware.c:109:17:addr_to_sector	24	static
+../Core/Src/Update_firmware.c:118:17:sector_index_to_hal	16	static
+../Core/Src/Update_firmware.c:129:19:erase_app	64	static
+../Core/Src/Update_firmware.c:155:19:write_app	64	static
+../Core/Src/Update_firmware.c:183:5:verify_app	32	static
+../Core/Src/Update_firmware.c:193:12:recv_packet	32	static
+../Core/Src/Update_firmware.c:224:6:bootloader_update	304	static
